@@ -297,8 +297,8 @@ go.podman.io/common v0.69.1-0.20260814154204-a60b104fc9c8 h1:z9uIxXDy77Bk/YjKEwr
 go.podman.io/common v0.69.1-0.20260814154204-a60b104fc9c8/go.mod h1:hD/+/fhiw0URc0Kmhmxr+c5dtlORzDUXOvyenqUO1Y4=
 go.podman.io/image/v5 v5.41.1-0.20260814154204-a60b104fc9c8 h1:Ts9qXQuYrMDOPsWg2FV4I1Luy280Wvo9G2dfUQAVJ4I=
 go.podman.io/image/v5 v5.41.1-0.20260814154204-a60b104fc9c8/go.mod h1:+Djaq40r9lzOTbnzEBUtlJYxgE+yHHL2fYZZNXcX1bo=
-go.podman.io/storage v1.64.1-0.20260814154204-a60b104fc9c8 h1:ekShs85eaTWdpXsWlUz7gRksH8a5BQmWwCkD5iMMT8I=
-go.podman.io/storage v1.64.1-0.20260814154204-a60b104fc9c8/go.mod h1:MYaiygMixoHxWfp+NPhH1KXY//fvw1DYJNh7EiDZwEM=
+go.podman.io/storage v1.64.1-0.20260820183115-5e5ce45b11c8 h1:4d5QbAVVgERz28gz3DYFcxRTtCrrbCYBZFK22HjcyM0=
+go.podman.io/storage v1.64.1-0.20260820183115-5e5ce45b11c8/go.mod h1:une6ak6KU2LZG8nW6YE1OEu+JrBz/BSq3Mwof+DBpi8=
 go.yaml.in/yaml/v2 v2.4.4 h1:tuyd0P+2Ont/d6e2rl3be67goVK4R6deVxCUX5vyPaQ=
 go.yaml.in/yaml/v2 v2.4.4/go.mod h1:gMZqIpDtDqOfM0uNfy0SkpRhvUryYH0Z6wdMYcacYXQ=
 go.yaml.in/yaml/v3 v3.0.4/go.mod h1:DhzuOOF2ATzADvBadXxruRBLzYTpT36CKvDb3+aBEFg=

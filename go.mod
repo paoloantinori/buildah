@@ -39,7 +39,7 @@ require (
 	go.etcd.io/bbolt v1.5.0
 	go.podman.io/common v0.69.1-0.20260814154204-a60b104fc9c8
 	go.podman.io/image/v5 v5.41.1-0.20260814154204-a60b104fc9c8
-	go.podman.io/storage v1.64.1-0.20260814154204-a60b104fc9c8
+	go.podman.io/storage v1.64.1-0.20260820183115-5e5ce45b11c8
 	golang.org/x/crypto v0.55.0
 	golang.org/x/sync v0.22.0
 	golang.org/x/sys v0.47.0

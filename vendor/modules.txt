@@ -630,7 +630,7 @@ go.podman.io/image/v5/transports
 go.podman.io/image/v5/transports/alltransports
 go.podman.io/image/v5/types
 go.podman.io/image/v5/version
-# go.podman.io/storage v1.64.1-0.20260814154204-a60b104fc9c8
+# go.podman.io/storage v1.64.1-0.20260820183115-5e5ce45b11c8
 ## explicit; go 1.25.0
 go.podman.io/storage
 go.podman.io/storage/drivers
