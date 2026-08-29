@@ -4259,9 +4259,11 @@ _EOF
   _prefetch alpine
   imgName=alpine-symbolic-chmod
   run_buildah build $WITH_POLICY_JSON -t ${imgName} $BUDFILES/copy-chmod-symbolic
-  # u+x,go-rwx on a 0644 source -> 0700; a+rX,go-w keeps an executable 0755
+  # u+x,go-rwx on a 0644 source -> 0700; a+rX,go-w keeps an executable 0755;
+  # a+rX alone on a 0644 source leaves it 0644 (conditional X adds nothing)
   expect_output --substring "sym1:700"
   expect_output --substring "sym2:755"
+  expect_output --substring "sym3:644"
 }
 
 @test "bud with bad symbolic chmod copy" {
